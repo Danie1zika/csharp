@@ -1,0 +1,15 @@
+T:\Workspace\Daniel\csharp\Projeto0\bin\Debug\net8.0\Projeto0.exe
+T:\Workspace\Daniel\csharp\Projeto0\bin\Debug\net8.0\Projeto0.deps.json
+T:\Workspace\Daniel\csharp\Projeto0\bin\Debug\net8.0\Projeto0.runtimeconfig.json
+T:\Workspace\Daniel\csharp\Projeto0\bin\Debug\net8.0\Projeto0.dll
+T:\Workspace\Daniel\csharp\Projeto0\bin\Debug\net8.0\Projeto0.pdb
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\Projeto0.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\Projeto0.AssemblyInfoInputs.cache
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\Projeto0.AssemblyInfo.cs
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\Projeto0.csproj.CoreCompileInputs.cache
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\Projeto0.sourcelink.json
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\Projeto0.dll
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\refint\Projeto0.dll
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\Projeto0.pdb
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\Projeto0.genruntimeconfig.cache
+T:\Workspace\Daniel\csharp\Projeto0\obj\Debug\net8.0\ref\Projeto0.dll
