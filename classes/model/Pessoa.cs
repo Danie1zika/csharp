@@ -28,7 +28,7 @@ namespace classes.model
         }
         public void Falar()
         {
-            Console.WriteLine($"{nome}Voud ficar rico programando em C#!");
+            Console.WriteLine($"{nome} Vou ficar rico programando em C#!");
         }
     }
 }
