@@ -21,5 +21,14 @@ namespace classes.model
             this.altura = altura;
             this.peso = peso;
         }
+        // Métodos Andar e Falar
+        public void Andar()
+        {
+            Console.WriteLine($"{nome} está andando.");
+        }
+        public void Falar()
+        {
+            Console.WriteLine($"{nome}Voud ficar rico programando em C#!");
+        }
     }
 }
