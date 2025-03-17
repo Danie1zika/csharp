@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Workspace\\Daniel\\csharp\\csharp\\POO\\POO.csproj": {}
+    "T:\\Workspace\\Daniel\\csharp\\POO\\POO.csproj": {}
   },
   "projects": {
-    "T:\\Workspace\\Daniel\\csharp\\csharp\\POO\\POO.csproj": {
+    "T:\\Workspace\\Daniel\\csharp\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Workspace\\Daniel\\csharp\\csharp\\POO\\POO.csproj",
+        "projectUniqueName": "T:\\Workspace\\Daniel\\csharp\\POO\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "T:\\Workspace\\Daniel\\csharp\\csharp\\POO\\POO.csproj",
+        "projectPath": "T:\\Workspace\\Daniel\\csharp\\POO\\POO.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "T:\\Workspace\\Daniel\\csharp\\csharp\\POO\\obj\\",
+        "outputPath": "T:\\Workspace\\Daniel\\csharp\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

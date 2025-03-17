@@ -63,7 +63,7 @@ namespace POO.model
 
     public void Acelerar()
     {
-        Console.WriteLine($"{marca} {modelo} ano {ano} está à {velocidadeAtual} km/h.");
+        Console.WriteLine($"{marca} {modelo} ano {ano} está rápidão à {velocidadeAtual} km/h.");
     }
     public void Freiar()
     {
