@@ -1,0 +1,15 @@
+T:\Workspace\Daniel\csharp\exercicio-POO\bin\Debug\net9.0\exercicio-POO.exe
+T:\Workspace\Daniel\csharp\exercicio-POO\bin\Debug\net9.0\exercicio-POO.deps.json
+T:\Workspace\Daniel\csharp\exercicio-POO\bin\Debug\net9.0\exercicio-POO.runtimeconfig.json
+T:\Workspace\Daniel\csharp\exercicio-POO\bin\Debug\net9.0\exercicio-POO.dll
+T:\Workspace\Daniel\csharp\exercicio-POO\bin\Debug\net9.0\exercicio-POO.pdb
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\exercicio-POO.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\exercicio-POO.AssemblyInfoInputs.cache
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\exercicio-POO.AssemblyInfo.cs
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\exercicio-POO.csproj.CoreCompileInputs.cache
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\exercicio-POO.sourcelink.json
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\exercicio-POO.dll
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\refint\exercicio-POO.dll
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\exercicio-POO.pdb
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\exercicio-POO.genruntimeconfig.cache
+T:\Workspace\Daniel\csharp\exercicio-POO\obj\Debug\net9.0\ref\exercicio-POO.dll
