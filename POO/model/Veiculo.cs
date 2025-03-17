@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace POO.model
 {
-    public class Veiculo
+    public abstract class Veiculo
     {
     private string marca;
     private string modelo;
@@ -71,5 +71,6 @@ namespace POO.model
         velocidadeAtual += decremento;
         Console.WriteLine($"{marca} {modelo} ano {ano} freia muito rápido.");
     }
+    public abstract void ObterDadosDoVeiculo();
     }
 }
