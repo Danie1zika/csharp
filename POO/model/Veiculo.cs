@@ -61,8 +61,9 @@ namespace POO.model
 
 ////////////////////////////////////////////////////////////////
 
-    public void Acelerar()
+    public virtual void Acelerar(double incremento)
     {
+        velocidadeAtual += incremento;
         Console.WriteLine($"{marca} {modelo} ano {ano} está rápidão à {velocidadeAtual} km/h.");
     }
     public void Freiar()

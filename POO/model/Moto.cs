@@ -33,6 +33,12 @@ namespace POO.model
             this.protetorDeCarenagem = protetorDeCarenagem;
         }
 
+        public override void Acelerar(double incremento)
+        {
+            velocidadeAtual += incremento;
+            Console.WriteLine($"A moto acelerou e atingiu a velocidade de {velocidadeAtual} km/h.");
+        }
+
         public void Empinar()
         {
             Console.WriteLine("Empinando a moto!");
