@@ -61,5 +61,15 @@ namespace POO.model
         {
             Console.WriteLine("As portas do carro estão abertas.");
         }
+
+        public override void ObterDadosDoVeiculo()
+        {
+            Console.WriteLine($"\nDados do Carro:\n" +
+            $"Marca{GetMarca()}\n" +
+            $"Modelo: {GetModelo()} \n" +
+            $"Ano: {GetAno()} \n" +
+            $"Automatico: {(GetAutomatico() ? "Sim" : "Não")} \n" +
+            $"Número de portas: {GetNumeroDePortas()}\n");
+        }
     }
 }
