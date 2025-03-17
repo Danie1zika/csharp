@@ -66,8 +66,9 @@ namespace POO.model
         velocidadeAtual += incremento;
         Console.WriteLine($"{marca} {modelo} ano {ano} está rápidão à {velocidadeAtual} km/h.");
     }
-    public void Freiar()
+    public void Freiar(double decremento)
     {
+        velocidadeAtual += decremento;
         Console.WriteLine($"{marca} {modelo} ano {ano} freia muito rápido.");
     }
     }
