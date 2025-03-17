@@ -43,5 +43,15 @@ namespace POO.model
         {
             Console.WriteLine("Empinando a moto!");
         }
+
+        public override void ObterDadosDoVeiculo()
+        {
+            Console.WriteLine($"\nDados da moto:\n");
+            Console.WriteLine($"Marca: {GetMarca()}");
+            Console.WriteLine($"Modelo: {GetModelo()}");
+            Console.WriteLine($"Ano: {GetAno()}");
+            Console.WriteLine($"Partida elétrica: {(GetPartidaEletrica() ? "Sim" : "Não")}");
+            Console.WriteLine($"Protetor de carenagem: {(GetProtetorDeCarenagem() ? "Sim" : "Não")}");
+        }
     }
 }
