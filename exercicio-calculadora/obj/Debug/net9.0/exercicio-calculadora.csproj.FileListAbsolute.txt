@@ -1,0 +1,15 @@
+T:\Workspace\Daniel\csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.exe
+T:\Workspace\Daniel\csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.deps.json
+T:\Workspace\Daniel\csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.runtimeconfig.json
+T:\Workspace\Daniel\csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.dll
+T:\Workspace\Daniel\csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.pdb
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.AssemblyInfoInputs.cache
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.AssemblyInfo.cs
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.csproj.CoreCompileInputs.cache
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.sourcelink.json
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.dll
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\refint\exercicio-calculadora.dll
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.pdb
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.genruntimeconfig.cache
+T:\Workspace\Daniel\csharp\exercicio-calculadora\obj\Debug\net9.0\ref\exercicio-calculadora.dll
