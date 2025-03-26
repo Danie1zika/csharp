@@ -1,0 +1,15 @@
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\bin\Debug\net9.0\Sistema-de-Personagem.exe
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\bin\Debug\net9.0\Sistema-de-Personagem.deps.json
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\bin\Debug\net9.0\Sistema-de-Personagem.runtimeconfig.json
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\bin\Debug\net9.0\Sistema-de-Personagem.dll
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\bin\Debug\net9.0\Sistema-de-Personagem.pdb
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\Sistema-de-Personagem.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\Sistema-de-Personagem.AssemblyInfoInputs.cache
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\Sistema-de-Personagem.AssemblyInfo.cs
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\Sistema-de-Personagem.csproj.CoreCompileInputs.cache
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\Sistema-de-Personagem.sourcelink.json
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\Sistema-de-Personagem.dll
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\refint\Sistema-de-Personagem.dll
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\Sistema-de-Personagem.pdb
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\Sistema-de-Personagem.genruntimeconfig.cache
+T:\Workspace\Daniel\csharp\Sistema-de-Personagem\obj\Debug\net9.0\ref\Sistema-de-Personagem.dll
