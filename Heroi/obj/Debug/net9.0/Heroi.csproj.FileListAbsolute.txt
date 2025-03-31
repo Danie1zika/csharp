@@ -1,0 +1,15 @@
+T:\Workspace\Daniel\csharp\Heroi\bin\Debug\net9.0\Heroi.exe
+T:\Workspace\Daniel\csharp\Heroi\bin\Debug\net9.0\Heroi.deps.json
+T:\Workspace\Daniel\csharp\Heroi\bin\Debug\net9.0\Heroi.runtimeconfig.json
+T:\Workspace\Daniel\csharp\Heroi\bin\Debug\net9.0\Heroi.dll
+T:\Workspace\Daniel\csharp\Heroi\bin\Debug\net9.0\Heroi.pdb
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\Heroi.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\Heroi.AssemblyInfoInputs.cache
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\Heroi.AssemblyInfo.cs
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\Heroi.csproj.CoreCompileInputs.cache
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\Heroi.sourcelink.json
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\Heroi.dll
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\refint\Heroi.dll
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\Heroi.pdb
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\Heroi.genruntimeconfig.cache
+T:\Workspace\Daniel\csharp\Heroi\obj\Debug\net9.0\ref\Heroi.dll
